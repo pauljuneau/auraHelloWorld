@@ -1,0 +1,4 @@
+org/myGroup/adapter/CustomConfigAdapter.class
+org/myGroup/adapter/CustomComponentLocationAdapter.class
+org/myGroup/adapter/CustomModuleLocationAdapter.class
+org/myGroup/configuration/CustomConfiguration.class
